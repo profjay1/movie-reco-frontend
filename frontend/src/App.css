@@ -1,3 +1,12 @@
+/* src/App.css */
+body {
+  margin: 0;
+  padding: 0;
+  background: #f7f8fb;
+  color: #111;
+}
+a { color: inherit; }
+
 #root {
   max-width: 1280px;
   margin: 0 auto;
